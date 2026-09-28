@@ -1,6 +1,8 @@
 # TalentPulse AI
 
-[talentpulseAI - Automating Hiring](https://talentpulse.slicearrow.com/admin)
+[talentpulseAI - Automating Hiring](https://talentpulse.slicearrow.com/admin) 
+||
+
 [talentpuslse AI.pptx](https://docs.google.com/presentation/d/1QulRuRQviVaJJQr9avXqcC5BleBeZuqX/edit?usp=sharing&ouid=107750477263639371169&rtpof=true&sd=true)
 
 
