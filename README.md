@@ -1,9 +1,7 @@
 # TalentPulse AI
 
-# Live application url : [talentpulseAI - Automating Hiring](https://talentpulse.slicearrow.com/admin)
-
-
-# presentation: [talentpuslse AI.pptx](https://docs.google.com/presentation/d/1QulRuRQviVaJJQr9avXqcC5BleBeZuqX/edit?usp=sharing&ouid=107750477263639371169&rtpof=true&sd=true)
+[talentpulseAI - Automating Hiring](https://talentpulse.slicearrow.com/admin)
+[talentpuslse AI.pptx](https://docs.google.com/presentation/d/1QulRuRQviVaJJQr9avXqcC5BleBeZuqX/edit?usp=sharing&ouid=107750477263639371169&rtpof=true&sd=true)
 
 
 TalentPulse AI is a recruitment application for collecting candidate applications, scheduling AI-led voice interviews, and reviewing interview results. Candidates browse roles and upload a PDF resume. Recruiters use a dashboard to prepare questions, schedule an interview, review the transcript, and generate an evaluation.
